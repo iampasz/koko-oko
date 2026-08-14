@@ -7,7 +7,7 @@
   },
   {
     "id": 2,
-    "name": "Tiger",
+    "name": "Tiger", 
     "description": "The tiger is the largest cat species.",
     "image": "https://your-site.com/animaloo/images/tiger.webp"
   },
