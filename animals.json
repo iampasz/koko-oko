@@ -1,1 +1,32 @@
-nnn
+[
+  {
+    "id": 1,
+    "name": "Lion",
+    "description": "The lion is a large wild cat.",
+    "image": "https://your-site.com/animaloo/images/lion.webp"
+  },
+  {
+    "id": 2,
+    "name": "Tiger",
+    "description": "The tiger is the largest cat species.",
+    "image": "https://your-site.com/animaloo/images/tiger.webp"
+  },
+  {
+    "id": 3,
+    "name": "Elephant",
+    "description": "Elephants are the largest land animals.",
+    "image": "https://your-site.com/animaloo/images/elephant.webp"
+  },
+  {
+    "id": 4,
+    "name": "Giraffe",
+    "description": "The giraffe is the tallest living animal.",
+    "image": "https://your-site.com/animaloo/images/giraffe.webp"
+  },
+  {
+    "id": 5,
+    "name": "Panda",
+    "description": "The giant panda is a bear native to China.",
+    "image": "https://your-site.com/animaloo/images/panda.webp"
+  }
+]
